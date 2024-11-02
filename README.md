@@ -20,8 +20,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/Flarien/1-frontendMentor_qr-component)
-- Live Site URL: [GitHub Pages](https://flarien.github.io/1-frontendMentor_qr-component/)
+- Solution URL: [GitHub Repository](https://github.com/Flarien/2-blog-preview-card)
+- Live Site URL: [GitHub Pages](https://flarien.github.io/2-blog-preview-card/)
 
 ## My process
 
